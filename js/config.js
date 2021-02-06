@@ -137,7 +137,7 @@ var l_messages = [
 	"We have a cinema!",
 	"Best way to start making money would be as a Lean Producer",
 	"Pressing R or Right Clicking on Arrest/Unaresst Batton will change its property",
-	"The prop limit is 50 :( If you need a prop unblacklisted let the staff know",
+	"The prop limit is 80 :( If you need a prop unblacklisted let the staff know",
 	"Rob the PD once in a while, its worth it",
 	"Drop a loading music suggestion in #suggestions",
 	"Garry's Mod runs like shit",
