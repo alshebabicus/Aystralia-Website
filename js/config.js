@@ -150,6 +150,7 @@ var l_messages = [
 	"If you have anything we can add to the server, let us know in the discord",
 	"We are kind of like supremacy's better half, way more fun",
 	"If you're interested, we are planning on hosting other game servers too",
+	"Use !party to join up with your mates!",
 	"Boost our discord upon joining the server for 6 million dollars",
 ];
 
