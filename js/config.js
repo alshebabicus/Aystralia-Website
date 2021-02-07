@@ -130,7 +130,6 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Press G, trust me",
 	"Use !rules in-game",
 	"If you're seeing errors use !content",
 	"Use 64 bit Garry's Mod if you're stuck on 'Starting Lua'",
