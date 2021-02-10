@@ -55,7 +55,7 @@ var l_bgVideo = true;
 // Just make sure they are using webm VP8 format 
 // (Place the videos in the backgrounds/videos folder)
 // (You can also use external URL)
-var l_background = "coldnight.webm";
+var l_background = "video.webm";
 
 // (Image-background only)
 // Enable map-based background image?
@@ -94,7 +94,7 @@ var l_bgImageFadeVelocity = 2000;
 
 // Enable background overlay?
 // 'true' or 'false'
-var l_bgOverlay = true;
+var l_bgOverlay = false;
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
@@ -113,7 +113,7 @@ var l_musicDisplay = false;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "menatwork.ogg", name: "Run a Muck"},
+	{ogg: "music.ogg", name: "Bih Yah"},
 ];
 
 // Random music order?
@@ -122,7 +122,7 @@ var l_musicRandom = false;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 3;
+var l_musicVolume = 10;
 
 // Enable custom messages?
 // 'true' or 'false'
@@ -131,25 +131,26 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Use !rules in-game",
+	"Use !party to join up with your mates!",
 	"If you're seeing errors use !content",
+	"Trusted in-game? Want it in the Discord? Use !link to join your accounts!",
+	"JOIN OUR FORUMS !forums",
+	"If you need help, message our staff team using '@ Help ME'",
 	"Use 64 bit Garry's Mod if you're stuck on 'Starting Lua'",
 	"We have a cinema!",
-	"Best way to start making money would be as a Lean Producer",
-	"Pressing R or Right Clicking on Arrest/Unaresst Batton will change its property",
+	"Best way to start making money would be as a Miner or Meth Cook",
+	"Right clicking on Arrest/Unaresst Batton will change its property",
 	"The prop limit is 80 :( If you need a prop unblacklisted let the staff know",
 	"Rob the PD once in a while, its worth it",
 	"Drop a loading music suggestion in #suggestions",
 	"Garry's Mod runs like shit",
 	"We change the loading music once a week!",
 	"We once banned a staff member for skipping school to play Garry's Mod",
-	"OVH aren't very good, typical french people",
 	"I miss french guy running to reboot the servers back in the day",
 	"We used to own an old RP server called Exalted RP, what a disaster",
 	"Aystralia Network was founded on the 24/12/2020",
 	"If you have anything we can add to the server, let us know in the discord",
-	"We are kind of like supremacy's better half, way more fun",
 	"If you're interested, we are planning on hosting other game servers too",
-	"Use !party to join up with your mates!",
 	"Boost our discord upon joining the server for 6 million dollars",
 ];
 
